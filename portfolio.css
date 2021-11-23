@@ -1,0 +1,74 @@
+body{
+	font-family: Roboto Condensed;
+}
+.asta{
+	position: absolute;
+width: 128px;
+height: 126px;
+left: 100px;
+top: 170px;
+}
+.portfolio{
+	position: absolute;
+width: 146.96px;
+height: 17.2px;
+left: 87px;
+top: 120px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+}
+h5{
+	position: absolute;
+width: 180.16px;
+height: 15.98px;
+left: 151px;
+top: 314px;
+
+font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+
+color: #FFFFFF;
+
+}
+.Biographie{
+	color: #EF2970;
+}
+
+<div class="col-8">
+            <h3 class="Biographie">Biographie</h3>
+            <p class="text-justify">
+                Née le 06 novembre 2000 à TOUBA , grandit sous le couvercle de sa mére qui l’a inculqué pas mal de valeurs, ASTA a fait ses études primaires jusqu’en classe de cinquiéme à Kéré Mbay (village situé à 7 Km de TOUBA ). Elle est allé à Thiés en 2016 chez sa grande soeur pour continuer ses études, elle a obtenue son BFEM au collége AMADOU COLY DIOP de 
+            </p> <br>
+            <div class="row">
+            <h3 class="Biographie">Centre d'intéret</h3>
+            <div class=" col">
+                <img src="/home/asta/Documents/mes études/icones/Kitchenwares.png">
+                <p class="text-white">Cuisiné</p>
+           </div>
+           <div class=" col">
+                <img src="/home/asta/Documents/mes études/icones/Listen.png">
+                <p class="text-white">Écouter<br>de la musique</p>
+           </div>
+           <div class=" col">
+                <img src="/home/asta/Documents/mes études/icones/Hand With Pen.png">
+                <p class="text-white">Écrire<br>des poémes</p>
+           </div>
+           <div class=" col">
+                <img src="/home/asta/Documents/mes études/icones/Book Reading (1).png">
+                <p class="text-white">Lecture</p>
+           </div>
+            </div>
+            
+
+        </div>
+    </div>
+</div>
