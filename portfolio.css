@@ -1,5 +1,6 @@
 body{
 	font-family: Roboto Condensed;
+
 }
 .asta{
 	position: absolute;
@@ -43,32 +44,32 @@ color: #FFFFFF;
 	color: #EF2970;
 }
 
-<div class="col-8">
-            <h3 class="Biographie">Biographie</h3>
-            <p class="text-justify">
-                Née le 06 novembre 2000 à TOUBA , grandit sous le couvercle de sa mére qui l’a inculqué pas mal de valeurs, ASTA a fait ses études primaires jusqu’en classe de cinquiéme à Kéré Mbay (village situé à 7 Km de TOUBA ). Elle est allé à Thiés en 2016 chez sa grande soeur pour continuer ses études, elle a obtenue son BFEM au collége AMADOU COLY DIOP de 
-            </p> <br>
-            <div class="row">
-            <h3 class="Biographie">Centre d'intéret</h3>
-            <div class=" col">
-                <img src="/home/asta/Documents/mes études/icones/Kitchenwares.png">
-                <p class="text-white">Cuisiné</p>
-           </div>
-           <div class=" col">
-                <img src="/home/asta/Documents/mes études/icones/Listen.png">
-                <p class="text-white">Écouter<br>de la musique</p>
-           </div>
-           <div class=" col">
-                <img src="/home/asta/Documents/mes études/icones/Hand With Pen.png">
-                <p class="text-white">Écrire<br>des poémes</p>
-           </div>
-           <div class=" col">
-                <img src="/home/asta/Documents/mes études/icones/Book Reading (1).png">
-                <p class="text-white">Lecture</p>
-           </div>
-            </div>
-            
+.formation{
+	color: #EF2970;
+	font-family: Roboto Condensed;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 42px;
+}
+svg{
+	color: #EF2970;
+}
+.bi-list{
+	position: absolute;
+	left: 300px;
+}
 
-        </div>
-    </div>
-</div>
+.btn1{
+	background-color: white; !important;
+}
+.btn1:hover{
+	background-color: #EF2970 !important;
+}
+
+.text:hover{
+	color: white; !important;
+}
+hr{
+	color: #EF2970;
+}
